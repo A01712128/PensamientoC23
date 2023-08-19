@@ -18,6 +18,8 @@ Una vez que el jugador seleccione categoría y nivel de dificultad el juego inic
 
 ## Reglas de juego
 
+El jugador ingresará su nombre.
+
 El jugador contará con 3 vidas.
 
 Cada operación matemática resuelta correctamente sumará un punto al score del jugador, por otro lado cada operación matemática resuelta incorrectamente restará un vida al jugador.
