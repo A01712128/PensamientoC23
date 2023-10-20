@@ -60,7 +60,7 @@ def suma_game():
 
         if respuesta == 'q':
             print("\n Gracias por jugar, Esperamos verte pronto\n")
-            #Salir del programa con un código de salida de 0.El programa ha finalizado con éxito.
+            #Salir del programa con un código de salida de 0.El programa ha finalizado con exito.
             sys.exit(0)
 
         respuesta = int(respuesta)
@@ -86,7 +86,7 @@ def suma_game():
                 print("\n¡Nuevo juego!\n")
             else:
                 print("\nHasta luego. Gracias por jugar.\n")
-                #Salir del programa con un código de salida de 0.El programa ha finalizado con éxito.
+                #Salir del programa con un código de salida de 0.El programa ha finalizado con exito.
                 sys.exit(0)
         
         # Impresion del puntaje final
@@ -119,7 +119,7 @@ def resta_game():
 
         if respuesta == 'q':
             print("\n Gracias por jugar, Esperamos verte pronto\n")
-            #Salir del programa con un código de salida de 0.El programa ha finalizado con éxito.
+            #Salir del programa con un código de salida de 0.El programa ha finalizado con exito.
             sys.exit(0)
 
         respuesta = int(respuesta)
@@ -146,7 +146,7 @@ def resta_game():
                 print("\n¡Nuevo juego!\n")
             else:
                 print("\nHasta luego. Gracias por jugar.\n")
-                #Salir del programa con un código de salida de 0.El programa ha finalizado con éxito.
+                #Salir del programa con un código de salida de 0.El programa ha finalizado con exito.
                 sys.exit(0)
         
         # Impresion del puntaje final
@@ -179,7 +179,7 @@ def multiplicacion_game():
 
         if respuesta == 'q':
             print("\n Gracias por jugar, Esperamos verte pronto\n")
-            #Salir del programa con un código de salida de 0.El programa ha finalizado con éxito.
+            #Salir del programa con un código de salida de 0.El programa ha finalizado con exito.
             sys.exit(0)
 
         respuesta = int(respuesta)
@@ -206,7 +206,7 @@ def multiplicacion_game():
                 print("\n¡Nuevo juego!\n")
             else:
                 print("\nHasta luego. Gracias por jugar.\n")
-                #Salir del programa con un código de salida de 0.El programa ha finalizado con éxito.
+                #Salir del programa con un código de salida de 0.El programa ha finalizado con exito.
                 sys.exit(0)
         
         # Impresión del puntaje final
@@ -241,7 +241,7 @@ def division_game():
 
         if respuesta == 'q':
             print("\n Gracias por jugar, Esperamos verte pronto\n")
-            #Salir del programa con un código de salida de 0.El programa ha finalizado con éxito.
+            #Salir del programa con un código de salida de 0.El programa ha finalizado con exito.
             sys.exit(0)
 
         respuesta = int(respuesta)
@@ -269,7 +269,7 @@ def division_game():
                 print("\n¡Nuevo juego!\n")
             else:
                 print("\nHasta luego. Gracias por jugar.\n")
-                #Salir del programa con un código de salida de 0.El programa ha finalizado con éxito.
+                #Salir del programa con un código de salida de 0.El programa ha finalizado con exito.
                 sys.exit(0)
         
         # Impresión del puntaje final
@@ -312,7 +312,7 @@ while True:  #Reglas del juego
     # Salir del juego si el jugador lo decide
     if opcion == 'q':
         print("\nGracias por jugar, Esperamos verte pronto\n")
-        #Salir del programa con un código de salida de 0.El programa ha finalizado con éxito.
+        #Salir del programa con un código de salida de 0.El programa ha finalizado con exito.
         sys.exit(0)  
 
     # Opciones de operaciónes matematicas
@@ -341,5 +341,5 @@ while True:  #Reglas del juego
         else:
             #Despedida del jugador
             print("\nHasta luego. Gracias por jugar.\n")
-            #Salir del programa con un código de salida de 0.El programa ha finalizado con éxito.
+            #Salir del programa con un código de salida de 0.El programa ha finalizado con exito.
             sys.exit(0)
