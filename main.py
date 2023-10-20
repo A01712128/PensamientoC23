@@ -1,4 +1,4 @@
-# Importación de librerias
+# Importacion de librerias
 import random
 import sys
 
